@@ -30,7 +30,8 @@ I engineered a custom extraction strategy aggregating data from three industry-s
 
 
 **Open World Survival Craft** has a slightly lower median than some competitors, its ceiling potential is vastly superior—reaching up to 8.5x its median.
-![Upsell Potential by Customer Group]()
+![Upsell Potential by Customer Group](Indie-Market-Strategy-Uncovering-Underserved-Genres-for-Smart-Investment/visuals
+/Dumbbell chart - Sales Potential.png)
 The top 6 highest-rated genres all belong to the ‘Niche' segment—revealing a high-value opportunity to capture engaged audiences with minimal market competition.
 ![Upsell Potential by Customer Group]()
 
