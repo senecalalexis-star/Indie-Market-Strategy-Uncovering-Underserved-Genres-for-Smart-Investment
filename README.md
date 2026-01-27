@@ -35,7 +35,7 @@ I engineered a custom extraction strategy aggregating data from three industry-s
 
 The top 6 highest-rated genres all belong to the ‘Niche' segment—revealing a high-value opportunity to capture engaged audiences with minimal market competition.
 
-![Market Saturation Analysis](visuals/Market%Saturation%Analysis.png)
+![Market Saturation Analysis](visuals/Market%20Saturation%20Analysis.png)
 
 ## 3. Recommendations
 Data show that Raw digital should focus on is **Open World Survival Craft** as primary target
