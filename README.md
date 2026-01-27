@@ -34,7 +34,8 @@ I engineered a custom extraction strategy aggregating data from three industry-s
 ![Sales Potential Chart](visuals/Dumbbell%20chart%20-%20Sales%20Potential.png)
 
 The top 6 highest-rated genres all belong to the ‘Niche' segment—revealing a high-value opportunity to capture engaged audiences with minimal market competition.
-![Upsell Potential by Customer Group]()
+
+![Market Saturation Analysis](visuals/Market%Saturation%Analysis.png)
 
 ## 3. Recommendations
 Data show that Raw digital should focus on is **Open World Survival Craft** as primary target
