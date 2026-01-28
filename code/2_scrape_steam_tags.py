@@ -141,4 +141,5 @@ def main():
     print("\n✅ Enrichment complete. Playtime data exported to CSV.")
 
 if __name__ == "__main__":
-    main(
+
+    main()
